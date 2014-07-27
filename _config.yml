@@ -1,0 +1,12 @@
+# Site settings
+title: This is a blog
+email: bobrubbens@gmail.com
+description: "Blog of an average CS student, mostly about computer-related subjects and then some"
+baseurl: ""
+url: "http://bobismijnnaam.github.io"
+twitter_username: broervanlisa
+github_username:  bobismijnnaam
+
+# Build settings
+markdown: kramdown
+permalink: pretty
